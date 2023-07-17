@@ -15,6 +15,7 @@ gem install lolcat
 
 git clone 
 https://github.com/Geasaputra/Virtex
+
 cd Virtex
 
 chmod +x virtex.sh
